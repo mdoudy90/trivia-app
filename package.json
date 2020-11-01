@@ -1,0 +1,21 @@
+{
+  "name": "trivia-app",
+  "version": "1.0.0",
+  "description": "Code Challenge for Tandem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon sercer/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdoudy90/trivia-app.git"
+  },
+  "author": "Michael Doudy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdoudy90/trivia-app/issues"
+  },
+  "homepage": "https://github.com/mdoudy90/trivia-app#readme"
+}

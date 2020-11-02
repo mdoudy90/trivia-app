@@ -1,7 +1,7 @@
 # Trivia App
 [Live Mobile Version](heroku.com)
 
-|![](sample1.png)|![](sample2.png)|
+|![](Sample1.png)|![](Sample2.png)|
 |---|---|
 
 <br>

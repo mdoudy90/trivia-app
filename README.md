@@ -1,5 +1,5 @@
 # Trivia App
-[Live Mobile Version](heroku.com)
+[Live Mobile Version](https://morning-reef-95781.herokuapp.com/)
 
 |![](Sample1.png)|![](Sample2.png)|
 |---|---|

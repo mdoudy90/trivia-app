@@ -1,0 +1,30 @@
+@media only screen and (max-width: 800px) {
+  .question-view,
+  .answer-view,
+  .finish-view {
+    border: none;
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0;
+    margin: 0 auto;
+  }
+  .question-view {
+    grid-template-rows: 20vh 40vh 40vh;
+
+    .prompt {
+      h2 {
+        font-size: 2.5rem;
+      }
+    }
+  }
+
+  .answer-view {
+    grid-template-rows: 25vh 50vh 25vh;
+
+    .answer {
+      h2:last-child {
+        font-size: 3rem;
+      }
+    }
+  }
+}

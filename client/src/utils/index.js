@@ -14,10 +14,10 @@ export const questionParser = (index) => {
 
 export const answerVerifier = (index, choice) => {
   return choice === Apprentice_TandemFor400_Data[index].correct;
-}
+};
 
 export const getAnswer = (index) => {
   return Apprentice_TandemFor400_Data[index].correct;
-}
+};
 
 export const questionCount = Apprentice_TandemFor400_Data.length;

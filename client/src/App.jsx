@@ -5,7 +5,7 @@ import { FinishView } from './components/FinishView';
 import { questionParser, answerVerifier, questionCount } from './utils';
 
 export const App = () => {
-  const [view, setView] = useState('question')
+  const [view, setView] = useState('question');
   const [points, setPoints] = useState(0);
   const [round, setRound] = useState(1);
   const [question, setQuestion] = useState('');
